@@ -1,4 +1,4 @@
-// let input = [-1, 5, "cat", false, 10.2, true, "dog"];
+//
 
  function arrayConverter(array) {
     let arrayConverter= {};
